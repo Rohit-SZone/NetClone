@@ -129,9 +129,10 @@ nav button {
 }
 .secImg video {
     position: absolute;
-    top: 51px;
-    right: 0;
-    width: 555px;
+    top: 121px;
+    right: 78px;
+    width: 404px;
+}
 }
 section.first>div {
     display: flex;
